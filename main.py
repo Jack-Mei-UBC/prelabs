@@ -1,4 +1,4 @@
-# Made by Jack Mei, contact jjrryyaa@student.ubc.ca if you got issues
+# Made by Jack M, contact jjrryyaa@student.ubc.ca if you got issues
 # I know this is scuffed so feel free to improve on it
 # You need to install pandas, xlrd, xlwt, XlsxWriter
 

@@ -5,7 +5,7 @@ Merging prelabs because im too lazy to do it anymore
 
 2. Place all lab marks, along with the class list and prelab marks in a folder called "files" in the directory
 
-3. labnumber is the sheet number of the lab (first sheet is 0, L20), must be xlsx
+3. labnumber (line 21) is the sheet number of the lab (first sheet is 0, L20), must be xlsx
 
 4. Must be formatted in the way where the TA marksheets start with lab (case sensitive), must be xlsx
 

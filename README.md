@@ -1,5 +1,5 @@
-# prelabs
-Merging prelabs because im too lazy to do it anymore
+# CPSC 121 Prelab Merger
+Script to automate the process of combining marks from all the TAs of each lab, simplifying the process of marking students after a lab
 
 1. Download everything here, place it in the same folder, and run "pip install -r requirements.txt" 
 
